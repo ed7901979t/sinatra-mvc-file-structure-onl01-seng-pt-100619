@@ -9,7 +9,7 @@ class Dog
   }
   
   all.self{
-    
+    @@all=self
     
     
   }
